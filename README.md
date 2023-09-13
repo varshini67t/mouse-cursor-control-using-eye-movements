@@ -1,2 +1,2 @@
 # mouse-cursor-control-using-eye-movements
-#"This would be a very useful code for physically challenged people to control mouse cusor using their eyes"
+#It is a python based project which helps to control the movements of mouse cursor using eye .The purpose of this application is to help paralyzed people to handle the computers individually without any help.
